@@ -1,5 +1,5 @@
 # Data files
-*.csv
+*/data/*
 
 # IDE specific folders and files
 .idea/
